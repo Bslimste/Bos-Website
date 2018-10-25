@@ -4,8 +4,8 @@ Website for BOS
 #####STRUCTURE######
 follows same structure as project bslim.
 
-assets -> images
-config -> api
+ * assets -> images
+ * config -> api
 
 it's recommend to make a folder for each component with a .js and .css in it for the specific component
 
