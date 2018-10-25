@@ -13,9 +13,10 @@ it's recommend to make a folder for each component with a .js and .css in it for
 
 #####PLUGINS########
 Besides the standard packages the following packages have also been added to the package.json.
+If you want to add a package that requires .css then you have to add the import in the index.js file under /src
 
 --FRAMEWORKS--
-We can use the components from the website to quickly setup a basic website.
+We can use the components from the frameworks to quickly setup a basic website.
 
   * material-ui/core (https://material-ui.com/getting-started/usage/)
   * material-ui/icons
