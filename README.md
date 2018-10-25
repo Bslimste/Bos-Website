@@ -30,3 +30,6 @@ https://leafletjs.com/examples/quick-start/
  
   * leaflet
   * react-leaflet
+  
+#####TIPS########
+ * work with % and vh (viewport height) for height and vw (viewport width) for width in CSS. this makes the design more responsive.
