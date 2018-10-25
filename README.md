@@ -29,4 +29,3 @@ https://leafletjs.com/examples/quick-start/
  
   * leaflet
   * react-leaflet
-  
